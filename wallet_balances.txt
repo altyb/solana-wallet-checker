@@ -1,0 +1,30 @@
+Wallet Checker
+
+1. Wallet Address: EkjKBdWhKGzARuKmGF98Sbirz7ywZwL7CLSnX6t7JDQp
+   Balance: 16.6705 SOL (~$2328.04)
+
+2. Wallet Address: 9UEYZaBiYJP48hucMqadExj9EPk8ainiCNCuKidjE6ug
+   Balance: 15.8997 SOL (~$2220.40)
+
+3. Wallet Address: 14DDEzSknJFRD4pFuB8Sce9gPhiFJxfqWtfAKso4EWJ8
+   Balance: 15.1885 SOL (~$2121.07)
+
+4. Wallet Address: D7muMWcvYBMC1BKqy8NhDBupYPd1irKgNr2vPgeQFo8S
+   Balance: 13.5153 SOL (~$1887.41)
+
+5. Wallet Address: 74gqJ3N2Ecgtrda5kjGTQHujMLPB1cAScuy5nWU5fzEa
+   Balance: 12.1609 SOL (~$1698.26)
+
+6. Wallet Address: FLRgaQCDLpjSfxiDEDkeLugAZnntJoUKjCZdqfnPkLUQ
+   Balance: 10.1950 SOL (~$1423.73)
+
+7. Wallet Address: G7hPA7e7axGR71aw4qgD91iQYrkt14WN2XxLEXDBn8Bm
+   Balance: 9.2947 SOL (~$1298.01)
+
+8. Wallet Address: WKPnixMG4FSoF7AXSiGPgvhGQK5KtsDgZw9kM2wn8Sn
+   Balance: 6.4392 SOL (~$899.23)
+
+9. Wallet Address: 7LgYwvX3e6y5vWA9QCvSUg2RW7x41yQCdiPytDXRtDa3
+   Balance: 3.6490 SOL (~$509.58)
+
+Total number of wallets with balance less than $10: 0
